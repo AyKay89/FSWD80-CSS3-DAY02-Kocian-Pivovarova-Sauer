@@ -1,11 +1,10 @@
-.container {text-align: center;
-			}
-
-div .container {width: 800px; 
-				text-align: center;
+div .container {text-align: center;
+				width: 800px; 
 				}
-p {color: #707070;
+
+p, li {color: #707070;
 	}
+
 
 header {text-align: center;
 		}
@@ -13,9 +12,11 @@ header {text-align: center;
 h1 {color: #DB0038
 	}
 
-h2 {color: #3998A3}
+h2 {color: #3998A3
+	}
 
-h3 {color: #474747}
+h3 {color: #474747
+	}
 
 div .hero {background-color: #f4f4f4;
 			text-align: center;
@@ -26,10 +27,10 @@ li {padding-top: 5px;
 	padding-bottom: 5px 
 	}
 
+div span {color: #F4B400; 
+				size: 25px}
 
+footer {text-align: center}
 
-Inside the rating section change the color of the special characters (stars) to #F4B400 and their size to 25px
-
-Center the content in the footer
-
-Apply the web-font "Happy Monkey" to the whole page
+body {font-family: 'Happy Monkey', cursive; 
+	}
