@@ -1,1 +1,35 @@
-.footer 
+.container {text-align: center;
+			}
+
+div .container {width: 800px; 
+				text-align: center;
+				}
+p {color: #707070;
+	}
+
+header {text-align: center;
+		}
+
+h1 {color: #DB0038
+	}
+
+h2 {color: #3998A3}
+
+h3 {color: #474747}
+
+div .hero {background-color: #f4f4f4;
+			text-align: center;
+			padding-bottom: 10px;
+			}
+
+li {padding-top: 5px;
+	padding-bottom: 5px 
+	}
+
+
+
+Inside the rating section change the color of the special characters (stars) to #F4B400 and their size to 25px
+
+Center the content in the footer
+
+Apply the web-font "Happy Monkey" to the whole page
