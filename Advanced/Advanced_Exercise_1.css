@@ -8,11 +8,13 @@ h1 {
 
 nav a {
 	margin-left: 5px;
-
+	
 }
 
 nav {
 	
+	width: 95%;
+	display: inline-block;
 	background-color: #D3D3D3;
 	font-size: 15px;
 	text-align: center;
@@ -27,12 +29,12 @@ nav {
 div.container > div {margin: 5px;
 }
 
-div.feature {width: 98.2%;
+div.feature {width: 98.25%;
 display: inline-block;
 background-color: #D3D3D3;
 text-align: center}
 
-div.Column {width: 32%; 
+div.Column {width: 32.15%; 
 	display: inline-block; 
 	background-color: #D3D3D3;
 	text-align: center;
