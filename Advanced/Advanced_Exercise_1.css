@@ -1,0 +1,21 @@
+div .feature {width: 100%;
+display: inline-block;
+border: 1px #D3D3D3;
+background-color: #D3D3D3;
+text-align: center}
+
+div .Column {width: 32%; 
+	display: inline-block; 
+	border: 1px #D3D3D3;
+	background-color: #D3D3D3;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	}
+
+div footer {width: 100%;
+display: inline-block;
+border: 1px #D3D3D3;
+background-color: #D3D3D3;
+text-align: center}
+
